@@ -1,0 +1,1 @@
+build --linkopt=-F/usr/local/opt/qt/lib
